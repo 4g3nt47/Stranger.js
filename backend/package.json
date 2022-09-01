@@ -1,0 +1,17 @@
+{
+  "name": "stranger.js",
+  "version": "1.0.0",
+  "description": "The backend code for Stranger.js",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar Abdul",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.1",
+    "uuid": "^8.3.2"
+  }
+}
